@@ -40,4 +40,6 @@ This project is to simple data analysis of the Electric Vehicles build until the
      Visualization: Tree map
      Description: Highlight the top 10 electric vehicle models based on the total number of   
      vehicles, offering insights into consumer preferences and popular models in the market.
+# Output
+![Screenshot 2024-02-12 204429](https://github.com/sanket1719/Electric-Vehicle-Analysis/assets/87166776/a3d6efa9-1755-4c26-a867-1c16e6b7bccf)
 
